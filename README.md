@@ -1,2 +1,8 @@
-# Machine-Learning-Development-with-Amazon-SageMaker-Studio
-Machine Learning Development with Amazon SageMaker Studio
+# Getting Started with Amazon SageMaker Studio
+Amazon SageMaker Studio is the first integrated development environment for machine learning and is designed to combine data preparation, feature engineering, statistical bias detection, AutoML, training, hosting, ML explainability, monitoring, and MLOps in one environment.
+In this book, you’ll start by exploring the features available in Amazon SageMaker Studio to analyze data, develop ML models, and productionize models to meet your goals. As you progress, you will learn how these features work together to address common challenges when building machine learning models in production. Later, you’ll understand how to effectively scale and operationalize the machine learning lifecycle using SageMaker Studio.
+By the end of this book, you’ll have learned machine learning best practices with Amazon SageMaker Studio as well as be able to improve productivity in the machine learning development lifecycle and build and deploy models easily for your ML use cases.
+
+Developers working with machine learning will be able to put their knowledge to work with this practical guide to Amazon SageMaker Studio. The book provides a hands-on approach to the implementation of real-world machine learning use cases that will have you up and running quickly.
+
+Learn to build end-to-end machine learning projects in the SageMaker machine learning IDE with these examples. In each example, you get hands-on with accompanying python notebooks and step-by-step explanations of essential concepts and practical recommendations.
