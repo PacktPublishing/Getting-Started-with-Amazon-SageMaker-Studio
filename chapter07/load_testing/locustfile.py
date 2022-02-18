@@ -9,8 +9,8 @@ import numpy as np
 
 endpoint_name=os.environ['ENDPOINT_NAME']
 predictor = sagemaker.predictor.Predictor(endpoint_name, 
-                    serializer=JSONSerializer(),
-                    deserializer=JSONDeserializer())
+                                          serializer=JSONSerializer(),
+                                          deserializer=JSONDeserializer())
 print(predictor.endpoint_name)
 
 csv_test_dir_prefix = 'imdb_data/test'
