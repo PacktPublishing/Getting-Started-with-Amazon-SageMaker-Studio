@@ -10,12 +10,14 @@ This is the code repository for [Getting Started with Amazon SageMaker Studio](h
 Amazon SageMaker Studio is the first integrated development environment (IDE) for machine learning (ML) and is designed to integrate ML workflows: data preparation, feature engineering, statistical bias detection, automated machine learning (AutoML), training, hosting, ML explainability, monitoring, and MLOps in one environment.
 
 This book covers the following exciting features: 
-* Implement virtual tables and time intelligence functionalities in DAX to build a powerful model
-* Identify Dimension and Fact tables and implement them in Power Query Editor
-* Deal with advanced data preparation scenarios while building Star Schema
-* Explore best practices for data preparation and data modeling
-* Discover different hierarchies and their common pitfalls
-* Understand complex data models and how to decrease the level of model complexity with different data modeling approaches
+* Explore the ML development life cycle in the cloud
+* Understand SageMaker Studio features and the user interface
+* Build a dataset with clicks and host a feature store for ML
+* Train ML models with ease and scale
+* Create ML models and solutions with little code
+* Host ML models in the cloud with optimal cloud resources
+* Ensure optimal model performance with model monitoring
+* Apply governance and operational excellence to ML projects
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800205694) today!
 
